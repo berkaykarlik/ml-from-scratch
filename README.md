@@ -1,2 +1,3 @@
 # ml-from-scratch
-basic ml algorithms implemented from scratch using julia 
+
+While studying Andrew Ng's new Machine Learning Specialization, I will try to implement the mentioned algorithms in Julia.
